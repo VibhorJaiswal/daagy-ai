@@ -3,3 +3,4 @@ setup.py
 build/
 src/
 !src/daagy/__init__.py
+dist/
