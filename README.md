@@ -68,6 +68,16 @@ $ daagy ques who is the PM of INDIA
 
 Daagy understands natural language — just tell it what you want.
 
+
+### 🛠️ Note for Linux Users
+
+If you get `daagy: command not found`, run the following command and try again. 
+
+```bash
+export PATH="$HOME/.local/bin:$PATH"
+```
+
+
 ## 😏 Just Saying...
 > ⚠️ Curious minds beware: commands like `daagy do something nasty` will do *something* — but you might not want to find out what.
 
