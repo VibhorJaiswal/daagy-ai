@@ -2,6 +2,8 @@
 
 **Daagy** is a terminal-based AI assistant that follows natural language instructions to perform system tasks, answer questions, and much more — powered by Google Gemini under the hood.
 
+It can also debug itself by reading command outputs and deciding the next steps on its own.
+
 
 ## 🚀 Features
 
